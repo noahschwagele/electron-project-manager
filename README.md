@@ -1,6 +1,3 @@
-Sure, I'll update and complete the `README.md` file with the missing and corrected information:
-
-```markdown
 # Electron GitHub Project Manager
 
 An Electron application to manage multiple GitHub projects with setup instructions, view, demo, clone, and setup functionality.
