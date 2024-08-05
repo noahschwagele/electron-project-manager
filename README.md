@@ -25,6 +25,6 @@ An Electron application to manage multiple GitHub projects with setup instructio
 
 2. **Install dependencies:**
 
-```sh
-Copy code
-npm install
+    ```sh
+    Copy code
+    npm install
